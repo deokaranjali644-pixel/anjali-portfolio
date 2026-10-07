@@ -1,5 +1,5 @@
 export const PROFILE_IMAGE = "/anjali.jpg";
-export const RESUME_URL = "/Anjali Duvva_UI_Visual Designer_Resume.pdf";
+export const RESUME_URL = "/Anjali-Duvva-Resume.pdf";
 
 export const CONTACT = {
   name: "Anjali Akshay Duvva",
